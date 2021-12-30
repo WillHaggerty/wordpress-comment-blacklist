@@ -196,7 +196,6 @@ _zapat
 --shut
 --stor
 --swarov
---that
 --ugg
 --uomo
 --user
