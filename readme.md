@@ -2,7 +2,7 @@
 
 **Sometimes simple is better.**
 
-Since 2011, I have painstakingly identified, compiled, and optimized over 43,000 phrases, patterns, and keywords commonly used by spammers and comment bots in usernames, email addresses, link text, and URIs. As with all compilations, this blacklist is a work in progress and there will always be room for improvement and optimization.
+Since 2011, I have painstakingly identified, compiled, and optimized over 46,000 phrases, patterns, and keywords commonly used by spammers and comment bots in usernames, email addresses, link text, and URIs. As with all compilations, this blacklist is a work in progress and there will always be room for improvement and optimization.
 
 Suggestions and bug reports are certainly appreciated. Please use the [issue tracker](https://github.com/splorp/wordpress-comment-blacklist/issues) to let me know.
 
@@ -92,7 +92,7 @@ I’d also like to acknowledge [John Hughes](https://themeisle.com/blog/stop-com
 
 ## License
 
-Copyright © 2011–2021 Grant Hutchinson
+Copyright © 2011–2022 Grant Hutchinson
 
 This project is licensed under the short and sweet [MIT License](https://opensource.org/licenses/MIT). This license allows you to do anything pretty much anything you want with the contents of the repository, as long as you provide proper attribution and don’t hold anyone liable.
 
@@ -100,11 +100,17 @@ See the [license.txt](https://raw.githubusercontent.com/splorp/wordpress-comment
 
 ## History
 
++ 20220314 — 46,000 entries
++ 20220217 — Fixed bug that affected valid links containing [site.co or site.in](https://github.com/splorp/wordpress-comment-blacklist/commit/ffabc58e443a7dc1a5a2f798d3b9edf252079083)
++ 20211124 — 45,000 entries
++ 20210913 — Fixed bug that affected email addresses from German service provider [t-online](https://github.com/splorp/wordpress-comment-blacklist/commit/22ded9e489799be02276da25da0fa9325a9fb60f)
++ 20210902 — 44,000 entries
++ 20210705 — Removed [several terms containing number signs](https://github.com/splorp/wordpress-comment-blacklist/commit/bcc822b246ae549e4833fd20bd2685adccff6a80) to  better handle valid anchor references
 + 20210512 — 43,000 entries
 + 20210319 — Pluginkollektiv renames the Blacklist Updater plugin to [Block List Updater](https://wordpress.org/plugins/blacklist-updater/)
 + 20210107 — Fixed bug that affected comments containing the term “[cialis](https://github.com/splorp/wordpress-comment-blacklist/commit/ab010aea0873cfef78bcde1f38875fa19df2e1b9)”, such as “specialist”
 + 20210106 — 42,000 entries
-+ 20201203 — Removed [several “online” terms](https://github.com/splorp/wordpress-comment-blacklist/commit/b83d8e432e550ccff4c41e1af816a3f5f6673d1d) to better handle valid email domains
++ 20201203 — Removed [several terms containing “online”](https://github.com/splorp/wordpress-comment-blacklist/commit/79f49938ded79e8b90d37cd90d21c9e0962e76c1) to better handle valid email domains
 + 20200905 — Fixed bug that affected comments containing the common character pair “[oy](https://github.com/splorp/wordpress-comment-blacklist/commit/a2357f30a8c04cf327f0cda6d823d5dad41add89)”
 + 20200626 — 41,000 entries
 + 20200424 — Removed [generic terms containing equal signs](https://github.com/splorp/wordpress-comment-blacklist/commit/b83d8e432e550ccff4c41e1af816a3f5f6673d1d) to better handle valid search strings

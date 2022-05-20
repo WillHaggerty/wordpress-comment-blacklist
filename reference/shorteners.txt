@@ -42,12 +42,16 @@
 /got.by
 /gul.ly
 /hfg.cc
+/hop.cx
 /huit.re
 /hyperurl.co
 /hypr.ink
+/inx.inbox.lv
+/inx.lv
 /is.gd
 /ity.im
 /j.mp
+/jl.ms
 /just.as
 /l.linklyhq.com
 /l2u.su
@@ -58,6 +62,7 @@
 /nblo.gs
 /oke.io
 /onip.it
+/ov.ms
 /ow.ly
 /owl.li
 /owtf.co.uk
@@ -66,6 +71,7 @@
 /ppus.tk
 /qil.su
 /qoo.by
+/qps.ru
 /rebrand.ly
 /rih.co
 /rlu.ru
@@ -83,6 +89,7 @@
 /stan.to
 /stfly.me
 /su0.ru
+/surl.li
 /swish.st
 /t.co
 /tgi.link
@@ -96,6 +103,7 @@
 /tnyhs.com
 /to.ly
 /tr.im
+/url.kn
 /urlms.co
 /urlr.be
 /utiny.ml
