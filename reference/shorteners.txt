@@ -67,6 +67,7 @@
 /owl.li
 /owtf.co.uk
 /past.is
+/pastein.ru
 /posts.gle
 /ppus.tk
 /qil.su
@@ -92,6 +93,7 @@
 /surl.li
 /swish.st
 /t.co
+/taraa.xyz
 /tgi.link
 /tiggi.es
 /tiny.cc
